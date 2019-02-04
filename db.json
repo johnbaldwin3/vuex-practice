@@ -1,0 +1,280 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 4578940,
+      "user": {
+        "id": "john123",
+        "name": "John Baldwin"
+      },
+      "category": "Chicago",
+      "title": "Staying Warm",
+      "description": "It's too Cold",
+      "location": "ChiTown",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1981322,
+      "user": {
+        "id": "jb2452352342",
+        "name": "John Baldwin"
+      },
+      "category": "Clemson",
+      "title": "Winning",
+      "description": "All We Do IS Win",
+      "location": "Clemson SC",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5000128,
+      "user": {
+        "id": "jb2452352342",
+        "name": "John Baldwin"
+      },
+      "category": "Space",
+      "title": "Going to the moon",
+      "description": "Moon Landings",
+      "location": "Studio 54",
+      "date": "2019-02-07T20:04:00.000Z",
+      "time": "12:00",
+      "attendees": []
+    },
+    {
+      "id": 101954,
+      "user": {
+        "id": "abc123",
+        "name": "John"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "John"
+      },
+      "title": "",
+      "description": "",
+      "location": "a house",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2252713,
+      "user": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "title": "eating",
+      "description": "asdasdasdasd",
+      "location": "asdasdwasdas",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8169037,
+      "user": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4584560,
+      "user": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "title": "324234sdfsdf",
+      "description": "sdfsdfsgsdfgsdfgsd",
+      "location": "23467yurdgfsdf",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 753105,
+      "user": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "title": "asdasdasd",
+      "description": "asdasdasdasdasd",
+      "location": "asdasdasdasdasd",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4789632,
+      "user": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8894858,
+      "user": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "title": "egsdg",
+      "description": "",
+      "location": "i8o7iukgfhg",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8750477,
+      "user": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc1234",
+        "name": "John"
+      },
+      "title": "sdweeyuiyhmgbvsfsdgfrhtyj",
+      "description": "erthgjmbnvcdgset4y5u6ytkhg",
+      "location": "463756u85i7yktuhgmfndgtew4",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5703059,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "zdxvgxfhrt",
+      "description": "ewfsdgvbcvb",
+      "location": "sdfsdfsdfs",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
